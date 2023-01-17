@@ -83,7 +83,7 @@ This client has been tested by multiple people on Hypixel. On most popular serve
 ## Credits
 [TheKodeToad](https://github.com/TheKodeToad) ([Discord User](https://discord.com/users/706152404072267788)): Maintainer and developer of the client.
 
-[i9Dolphin](https://github.com/i9Dolphin): Helped create Discord, choose this name (and changed his own one many times) and tested the client.
+[i9Dolphin](https://github.com/i9Dolphin): Helped create Discord, chose this name (and changed his own one too many times) and tested the client.
 
 [sp614x](https://github.com/sp614x): Creator of OptiFine mod.
 
